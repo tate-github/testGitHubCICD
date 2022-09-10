@@ -52,12 +52,6 @@
                 <identifier>home_assistant</identifier>
             </componentInstance>
         </itemInstances>
-        <itemInstances>
-            <componentInstance>
-                <componentName>helloWorld</componentName>
-                <identifier>c_helloWorld</identifier>
-            </componentInstance>
-        </itemInstances>
         <mode>Replace</mode>
         <name>sidebar</name>
         <type>Region</type>
